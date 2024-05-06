@@ -55,7 +55,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=FBmWuRoAAAAJ&view_op=list_works&sortby=pubdate
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/kakei-yamamoto-bb37461a0
+    link: https://www.linkedin.com/in/kakei-yamamoto-bb37461a0
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
