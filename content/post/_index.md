@@ -1,6 +1,6 @@
 ---
-title: Posts
-cms_exclude: true
+title: ''
+cms_exclude: false
 
 # View.
 #   1 = List
