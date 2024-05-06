@@ -61,6 +61,6 @@ social:
 highlight_name: true
 ---
 
-Kakei Yamamoto is a first-year Ph.D. student at Massachusetts Institute of Technology (MIT) in the Department of Electrical Engineering and Computer Science (EECS) under the supervision of Professor Martin Wainwright and Professor Sasha Rakhlin. I am also affiliated to the Laboratory for Information and Decision Systems (LIDS) and the Institute for Data, Systems, and Society (IDSS).
-Prior to MIT, I graduated in 2023 from the University of Tokyo (UTokyo) with a Bachelors of Engineering in Mathematical Informatics where I performed research on optimization for reinforcement learning in the Department of Applied Mathematics under Prof. Taiji Suzuki.
+Kakei Yamamoto is a first-year Ph.D. student at Massachusetts Institute of Technology (MIT) in the Department of Electrical Engineering and Computer Science (EECS) under the supervision of [Professor Martin Wainwright](https://wainwrigwork.github.io/) and [Professor Sasha Rakhlin](https://www.mit.edu/~rakhlin/). I am also affiliated to [the Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) and [the Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/).
+Prior to MIT, I graduated in 2023 from the University of Tokyo (UTokyo) with a Bachelors of Engineering in Mathematical Informatics where I performed research on optimization for reinforcement learning in the Department of Applied Mathematics under [Professor Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/).
 {style="text-align: justify;"}
